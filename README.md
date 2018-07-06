@@ -1,7 +1,7 @@
 # ConOut Website
 
 
-[https://cmuconout.github.io/](https://cmuxstream.github.io/)
+[https://cmuconout.github.io/](https://cmuconout.github.io/)
 
 This repository contains the code for the ConOut website.
 
